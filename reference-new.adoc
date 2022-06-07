@@ -17,7 +17,7 @@ Cloud Volumes ONTAP 9.11.0 includes a new enhancement.
 
 Additional features and enhancements are also introduced in the latest versions of Cloud Manager. See the https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Cloud Manager Release Notes^] for details.
 
-== Support for Elastic Volumes (6 June 2022)
+== Support for Elastic Volumes (7 June 2022)
 
 Support for the Amazon EBS Elastic Volumes feature with a Cloud Volumes ONTAP aggregate provides better performance and additional capacity, while enabling Cloud Manager to automatically increase the underlying disk capacity as needed.
 
