@@ -195,7 +195,7 @@ Some configurations enable you to create additional storage VMs (SVMs) for Cloud
 
 https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-managing-svms-aws.html[Learn how to create additional storage VMs^].
 
-[cols="26,48",width=100%,options="header"]
+[cols="40,60",width=100%,options="header"]
 |===
 | License type
 | Storage VM limit
